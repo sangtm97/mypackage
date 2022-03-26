@@ -1,0 +1,34 @@
+{
+    "name": "sangtm97/mypackage",
+    "description": "sangtm97",
+    "keywords": [
+        "sangtm97"
+    ],
+    "authors": [
+        {
+            "name": "sangtm97",
+            "email": "minhsangtrieu94@gmail.com"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+    },
+    "require-dev": {
+    },
+    "autoload": {
+        "psr-4": {
+            "Sangtm97\\Mypackage\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "classmap": [
+
+        ]
+    },
+    "scripts": {
+    },
+    "minimum-stability": "dev",
+    "config": {
+        "preferred-install": "dist"
+    }
+}
